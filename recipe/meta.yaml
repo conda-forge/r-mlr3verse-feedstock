@@ -26,23 +26,33 @@ requirements:
     - cross-r-base {{ r_base }}    # [build_platform != target_platform]
   host:
     - r-base
+    - r-bbotk
+    - r-data.table
     - r-mlr3
+    - r-mlr3cluster
     - r-mlr3data
     - r-mlr3filters
+    - r-mlr3fselect
     - r-mlr3learners
     - r-mlr3misc
     - r-mlr3pipelines
+    - r-mlr3proba
     - r-mlr3tuning
     - r-mlr3viz
     - r-paradox
   run:
     - r-base
+    - r-bbotk
+    - r-data.table
     - r-mlr3
+    - r-mlr3cluster
     - r-mlr3data
     - r-mlr3filters
+    - r-mlr3fselect
     - r-mlr3learners
     - r-mlr3misc
     - r-mlr3pipelines
+    - r-mlr3proba
     - r-mlr3tuning
     - r-mlr3viz
     - r-paradox
