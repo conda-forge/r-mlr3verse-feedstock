@@ -1,11 +1,11 @@
-About r-mlr3verse
-=================
+About r-mlr3verse-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3verse-feedstock/blob/main/LICENSE.txt)
 
 Home: https://mlr3verse.mlr-org.com, https://github.com/mlr-org/mlr3verse
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3verse-feedstock/blob/main/LICENSE.txt)
 
 Summary: The 'mlr3' package family is a set of packages for machine-learning purposes built in a modular fashion. This wrapper package is aimed to simplify the installation and loading of the core 'mlr3' packages. Get more information about the 'mlr3' project at <https://mlr3book.mlr-org.com/>.
 
